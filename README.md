@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html> 
 <head>
-<title> My portfolio </title>
+<h3> My portfolio </h3>
 </head>
 <body>
   <h1>hello I'm Karla Gonzalez</h1>
